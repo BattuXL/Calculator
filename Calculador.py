@@ -1,4 +1,5 @@
-#puta perra calculadora matematica normal
+#calculadora matematica
+#By: batu
 
 def suma(a, b):
     return a + b
